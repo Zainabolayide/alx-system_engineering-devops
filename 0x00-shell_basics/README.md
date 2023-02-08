@@ -1,1 +1,1 @@
-print name of the current working directory
+print out the absolute working directory
